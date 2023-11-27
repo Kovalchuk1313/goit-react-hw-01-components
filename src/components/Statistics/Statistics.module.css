@@ -1,13 +1,14 @@
 .statistics {
-  width: 700px;
-  margin-left: auto;
-  margin-right: auto;
+  width: 500px;
+  margin: 5px auto;
   text-align: center;
+  background-color: #f7f24c;
+  border: 1px solid #111;
+  border-radius: 4px;
 }
 
-/* Title styles */
 .title {
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 40px;
+  margin-bottom: 40px;
   font-size: 20px;
 }

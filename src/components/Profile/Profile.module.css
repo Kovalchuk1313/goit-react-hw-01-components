@@ -1,12 +1,13 @@
 .profile {
-  width: 400px;
+  width: 300px;
   margin: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
-  border: 1px solid skyblue;
-  padding: 20px;
+  border: 1px solid black;
+  padding: 15px;
   border-radius: 5px;
+  background-color: #95f0f5;
 }
 .description {
   display: flex;
@@ -17,7 +18,7 @@
 .avatar {
   width: 250px;
   height: 250px;
-  margin-bottom: 10px;
+  padding-bottom: 10px;
 }
 .name {
   font-size: 30px;
@@ -27,11 +28,8 @@
 
 .tag {
   font-size: 20px;
-  background-color: #3498db;
-  color: #fff;
-  padding: 5px 10px;
-  border-radius: 55px;
-  margin-top: 5px;
+  color: #4f4e4e;
+  padding: 10px 0;
   font-weight: bold;
 }
 .location {
